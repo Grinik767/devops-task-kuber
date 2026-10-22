@@ -1,0 +1,21 @@
+The push refers to repository [localhost:5001/kiselev-homework]
+061d06e4000d: Preparing
+9d0d9d3d1141: Preparing
+53edabc8547a: Preparing
+b77b1d83b00a: Preparing
+1c41cda582c2: Preparing
+4014493bfd8c: Preparing
+42c74cbc219f: Preparing
+32ab39660fd5: Preparing
+42c74cbc219f: Waiting
+32ab39660fd5: Waiting
+4014493bfd8c: Waiting
+9d0d9d3d1141: Layer already exists
+1c41cda582c2: Layer already exists
+53edabc8547a: Layer already exists
+b77b1d83b00a: Layer already exists
+32ab39660fd5: Layer already exists
+42c74cbc219f: Layer already exists
+4014493bfd8c: Layer already exists
+061d06e4000d: Pushed
+v1: digest: sha256:d5b274e78ce493aaaec7e1d941de9d9db615e6ce9add9834fa04148443dd0d9c size: 1995

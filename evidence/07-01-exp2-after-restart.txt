@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Wed, 21 Oct 2026 17:25:18 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+
+{"message":"Секрет configmap другой","author":"Киселев Григорий Александрович","environment":"дз","tokenConfigured":true,"machineName":"hw1-app-d559cd945-zqm8c","appVersion":"v1"}

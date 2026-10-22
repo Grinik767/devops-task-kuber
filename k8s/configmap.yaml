@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: hw1-config
+  namespace: homework-1
+data:
+  APP_MESSAGE: "Секрет configmap другой"
+  APP_ENVIRONMENT: "дз"
+  APP_PORT: "8080"

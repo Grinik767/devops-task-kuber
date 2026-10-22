@@ -1,0 +1,2 @@
+NAME         TYPE     DATA   AGE
+hw1-secret   Opaque   1      83s

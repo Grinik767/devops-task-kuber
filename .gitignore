@@ -1,0 +1,15 @@
+﻿# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# IDE settings and user files
+.idea/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

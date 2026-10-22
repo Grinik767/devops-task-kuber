@@ -1,0 +1,24 @@
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app] info: HomeworkApp[0]
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app]       Starting v1 on port 8080: environment=дз, tokenConfigured=True
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app] warn: Microsoft.AspNetCore.Hosting.Diagnostics[15]
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app]       Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:8080'.
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app] info: Microsoft.Hosting.Lifetime[14]
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app]       Now listening on: http://0.0.0.0:8080
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app] info: Microsoft.Hosting.Lifetime[0]
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app]       Application started. Press Ctrl+C to shut down.
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app] info: Microsoft.Hosting.Lifetime[0]
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app]       Hosting environment: Production
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app] info: Microsoft.Hosting.Lifetime[0]
+[pod/hw1-app-7c946b6cdf-65csl/hw1-app]       Content root path: /app
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app] info: HomeworkApp[0]
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app]       Starting v1 on port 8080: environment=дз, tokenConfigured=True
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app] warn: Microsoft.AspNetCore.Hosting.Diagnostics[15]
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app]       Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://0.0.0.0:8080'.
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app] info: Microsoft.Hosting.Lifetime[14]
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app]       Now listening on: http://0.0.0.0:8080
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app] info: Microsoft.Hosting.Lifetime[0]
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app]       Application started. Press Ctrl+C to shut down.
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app] info: Microsoft.Hosting.Lifetime[0]
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app]       Hosting environment: Production
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app] info: Microsoft.Hosting.Lifetime[0]
+[pod/hw1-app-7c946b6cdf-trrtr/hw1-app]       Content root path: /app

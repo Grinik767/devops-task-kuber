@@ -1,0 +1,7 @@
+NAME                                 DESIRED   CURRENT   READY   AGE
+replicaset.apps/hw1-app-7c946b6cdf   0         0         0       11m
+replicaset.apps/hw1-app-d559cd945    2         2         2       28s
+
+NAME                          READY   STATUS    RESTARTS   AGE
+pod/hw1-app-d559cd945-w7gfz   1/1     Running   0          27s
+pod/hw1-app-d559cd945-zqm8c   1/1     Running   0          28s

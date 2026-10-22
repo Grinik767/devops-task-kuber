@@ -1,0 +1,6 @@
+NAME                       UID                                    RESTARTS
+hw1-app-7c946b6cdf-dgdst   d285b46a-ca44-4027-b28f-3a9961e43707   0
+hw1-app-7c946b6cdf-trrtr   ffb85a82-8f4f-4d0d-a4b6-84206c599280   0
+NAME                       OWNER        OWNER_NAME
+hw1-app-7c946b6cdf-dgdst   ReplicaSet   hw1-app-7c946b6cdf
+hw1-app-7c946b6cdf-trrtr   ReplicaSet   hw1-app-7c946b6cdf

@@ -1,0 +1,9 @@
+NAME                      READY   UP-TO-DATE   AVAILABLE   AGE   CONTAINERS   IMAGES                               SELECTOR
+deployment.apps/hw1-app   2/2     2            2           16s   hw1-app      localhost:5001/kiselev-homework:v1   app=hw1-app
+
+NAME                                 DESIRED   CURRENT   READY   AGE   CONTAINERS   IMAGES                               SELECTOR
+replicaset.apps/hw1-app-7c946b6cdf   2         2         2       16s   hw1-app      localhost:5001/kiselev-homework:v1   app=hw1-app,pod-template-hash=7c946b6cdf
+
+NAME                           READY   STATUS    RESTARTS   AGE   IP           NODE                        NOMINATED NODE   READINESS GATES
+pod/hw1-app-7c946b6cdf-65csl   1/1     Running   0          16s   10.244.0.9   hosting-lab-control-plane   <none>           <none>
+pod/hw1-app-7c946b6cdf-trrtr   1/1     Running   0          16s   10.244.0.8   hosting-lab-control-plane   <none>           <none>

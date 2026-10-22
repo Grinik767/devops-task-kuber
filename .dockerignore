@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+**/.vs/
+**/.idea/
+k8s/
+evidence/
+REPORT.md

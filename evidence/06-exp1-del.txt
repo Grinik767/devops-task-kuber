@@ -1,0 +1,1 @@
+pod "hw1-app-7c946b6cdf-65csl" deleted from homework-1 namespace
